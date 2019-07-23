@@ -4,7 +4,7 @@ I have a background in molecular biology, but I am interested in all kinds of pr
 ![Image of Thinking Bee](https://i.imgur.com/I7yvNUP.png)
 [Some of my work from Draw a Box](https://imgur.com/gallery/DL2fVM6)
 
-<!--- You can use the [editor on GitHub](https://github.com/ektogamut/rich-illustrations.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!--You can use the [editor on GitHub](https://github.com/ektogamut/rich-illustrations.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
