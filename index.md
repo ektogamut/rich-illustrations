@@ -1,5 +1,8 @@
 ## Welcome to Rich Illustrations
+I have a background in molecular biology, but I am interested in all kinds of projects.  I have some familiarity with digital and traditional art.  Here are some examples of my work.
 
+![Image of Thinking Bee]
+(https://i.imgur.com/I7yvNUP.png)
 <!--- You can use the [editor on GitHub](https://github.com/ektogamut/rich-illustrations.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Markdown
